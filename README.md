@@ -1,4 +1,14 @@
 # Project
+One of the main use cases of process mining is to discover and analyze how users follow business assignments, providing valuable insights into process efficiency and optimization. In this repo, we present a comprehensive dataset consisting of 50 real business processes. The dataset holds significant potential for research in various applications, including task mining and process automation which is a valuable resource for researchers and practitioners. 
+
+
+# Downloading and using of the dataset
+
+The dataset can be downloaded from the data/ folder of this repository: https://github.com/microsoft/50BusinessAssignmentsLog/blob/main/data/Recorded_Business_Tasks.csv
+
+
+
+# Information
 
 > This repo has been populated by an initial template to help get you started. Please
 > make sure to update the content to build a great experience for community-building.
